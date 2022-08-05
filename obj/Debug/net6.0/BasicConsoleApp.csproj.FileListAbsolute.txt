@@ -1,0 +1,15 @@
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\bin\Debug\net6.0\BasicConsoleApp.exe
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\bin\Debug\net6.0\BasicConsoleApp.deps.json
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\bin\Debug\net6.0\BasicConsoleApp.runtimeconfig.json
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\bin\Debug\net6.0\BasicConsoleApp.dll
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\bin\Debug\net6.0\BasicConsoleApp.pdb
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.AssemblyInfo.cs
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.dll
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\refint\BasicConsoleApp.dll
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.pdb
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\BasicConsoleApp.genruntimeconfig.cache
+C:\Users\hwait\Desktop\repos\BasicConsoleApp\obj\Debug\net6.0\ref\BasicConsoleApp.dll
