@@ -1,8 +1,18 @@
-﻿string name = "Sound of Music";
-int year = 1965;
-char ch = 's';
-bool goodMovie = true;
-double rating = 10;
-decimal budget = 8200000;
+﻿ static float MetersToMiles (float meters)
+{
+    float answer = meters * .000621371f;
+    return answer;
+}
 
-Console.WriteLine($"{name} is the best movie of all time that was released in {year}.");
+
+var mileage = MetersToMiles(3000);
+Console.WriteLine(mileage);
+
+//string name = "sound of music";
+//int year = 1965;
+//char ch = 's';
+//bool goodmovie = true;
+//double rating = 10;
+//decimal budget = 8200000;
+
+//console.writeline($"{name} is the best movie of all time that was released in {year}.");
